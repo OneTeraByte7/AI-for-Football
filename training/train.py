@@ -1,3 +1,9 @@
+# MIT License
+# Copyright (c) 2025 Soham
+# This file is part of the football simulation project and is licensed under the MIT License.
+# See the LICENSE file in the root directory for full license text.
+
+
 import logging
 import time
 import numpy as np
