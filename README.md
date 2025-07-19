@@ -4,6 +4,14 @@
 A multi-agent football (soccer) simulation environment with PPO-trained agents, real-time visualization using Pygame, and support for evaluation, video recording, and game commentary.
 
 ---
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Built with: Python](https://img.shields.io/badge/Built%20With-Python-blue)
+![Built with: Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-purple)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OneTeraByte7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 📁 Project Structure
 
