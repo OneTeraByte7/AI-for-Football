@@ -1,7 +1,7 @@
 
 # ⚽ Football Multi-Agent PPO Simulation
 
-A multi-agent football (soccer) simulation environment with PPO-trained agents, real-time visualization using Pygame, and support for evaluation, video recording, and game commentary.
+A multi-agent football (soccer) simulation environment with PPO-trained agents, real-time visualization using Pygame, and support for evaluation, video recording, and game commentary scores.
 
 ---
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
