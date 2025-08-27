@@ -28,7 +28,7 @@ football-sim/
 ├── visualization/
 │   └── visualize.py          # Pygame-based real-time match rendering
 ├── main.py                   # Command-line launcher
-└── README.md                 # This file
+└── README.md                 # This file shows overview
 ```
 
 ---
