@@ -49,6 +49,10 @@ football-sim/
   - Simple commentary engine ("Goal!" / "Pass!")
 
 ---
+## Execution
+
+Please refer to footbal_sim.mp4 in project directory
+---
 
 ## 🧠 Requirements
 
